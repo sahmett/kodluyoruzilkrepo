@@ -1,19 +1,24 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Kodluyoruz İlk Repo
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Mobile IOS Boobcamp
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçersinde bir adet index.html dosyası; bir adet de README dosyası mevcut.
 ***
 ## Installation
-[Repo Link](https://github.com/sahmett/kodluyoruzilkrepo.git) 
 
-![Lorem Picsum](https://picsum.photos/200/300)
+```
+git clone https://github.com/sahmett/kodluyoruzilkrepo.git
+``` 
+
 ***
 ## Usage
+Projeyi cloneladıktan sonra VSCode ile açınız.
 ```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+# linux için
+cd kodluyoruzilkrepo
+code .
 ``` 
 ***
 ## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için konu açınız
 ***
 ## License
-[Link](http://a.com) 
+[MIT](https://github.com/sahmett/kodluyoruzilkrepo/blob/main/LICENSE) 
